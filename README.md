@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 
 # Download Data
-We archived the data used for the evaluation in  for easy available.
+The data used for evaluation, the figures and intermediate products are archived [here](https://drive.google.com/drive/folders/1Yr5buUN6QNK4NcvnPI6JxAlUD7sX8eJH?usp=share_link) for easy available. 
 
 # How to run FLOSS
 Please follow the following steps to run FLOSS+TSKMeans:
